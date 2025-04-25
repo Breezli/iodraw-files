@@ -56,7 +56,7 @@
           <mxGeometry x="140" y="-600" width="480" height="540" as="geometry" />
         </mxCell>
         <mxCell id="XOpVnQzQsqXC708kNbdk-22" value="mergeConfig.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-872" width="100" height="30" as="geometry" />
+          <mxGeometry x="140" y="-640" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
