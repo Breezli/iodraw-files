@@ -76,7 +76,7 @@
         <mxCell id="XOpVnQzQsqXC708kNbdk-32" value="mergeConfig.te" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1055" y="1210" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XOpVnQzQsqXC708kNbdk-34" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;" edge="1" parent="1" target="XOpVnQzQsqXC708kNbdk-30">
+        <mxCell id="XOpVnQzQsqXC708kNbdk-34" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;labelBackgroundColor=#FF0000;" edge="1" parent="1" source="XOpVnQzQsqXC708kNbdk-12" target="XOpVnQzQsqXC708kNbdk-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="260" as="sourcePoint" />
             <mxPoint x="1010" y="210" as="targetPoint" />
