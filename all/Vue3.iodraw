@@ -31,8 +31,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-13" value="模板编译阶段" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-14" value="创建一个渲染器实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="298" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
