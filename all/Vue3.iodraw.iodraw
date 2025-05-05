@@ -329,10 +329,10 @@
           <mxGeometry x="-6410" y="-1810" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-119" value="Fragment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5590" y="-1820" width="70" height="30" as="geometry" />
+          <mxGeometry x="-5590" y="-1810" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-120" value="元素节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-4140" y="-1802" width="70" height="30" as="geometry" />
+          <mxGeometry x="-4720" y="-1800" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-121" value="组件节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-3470" y="-1802" width="70" height="30" as="geometry" />
