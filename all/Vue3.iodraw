@@ -127,8 +127,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-47" value="传入函数对象集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2949" y="-2020" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3265" y="-1982" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-48" value="解构赋值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-3200" y="-1982" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
