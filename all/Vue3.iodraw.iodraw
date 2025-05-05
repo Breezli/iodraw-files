@@ -142,8 +142,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-52" value="compiler-core的核心函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="450" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="335" y="738" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-53" value="将模板编译为渲染函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="738" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
