@@ -179,6 +179,9 @@
             <mxGeometry x="930" y="360" width="360" height="320" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="_RieJsYPawKbciylRm0j-65" value="虚拟DOM ---&amp;gt; 真实DOM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
