@@ -193,8 +193,8 @@
             <mxGeometry x="1330" y="420" width="490" height="390" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_RieJsYPawKbciylRm0j-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1855" y="538" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-69" value="创建&amp;lt;p&amp;gt;元素并设置文本内容为&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; letter-spacing: 0.08px; text-align: left; white-space: break-spaces; background-color: rgba(175, 184, 193, 0.2);&quot;&gt;vue3 - compiler&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1730" y="538" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
