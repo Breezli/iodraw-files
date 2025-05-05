@@ -247,14 +247,14 @@
         <mxCell id="_RieJsYPawKbciylRm0j-88" value="使返回&lt;div&gt;render&lt;/div&gt;&lt;div&gt;createApp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-3020" y="4350" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="_RieJsYPawKbciylRm0j-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-455" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-89" value="&lt;span style=&quot;color: rgb(105, 195, 255); font-family: &amp;quot;Fira Code semiBold&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(28, 36, 51); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ensureRenderer&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-460" y="480" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-90" value="内部带有函数&lt;div&gt;render &amp;amp; createApp&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-460" y="510" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-455" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
