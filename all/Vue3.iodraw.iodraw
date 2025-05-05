@@ -244,8 +244,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-84" value="新节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2949" y="-1900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3005" y="4358" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-88" value="使返回&lt;div&gt;render&lt;/div&gt;&lt;div&gt;createApp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-3020" y="4350" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
