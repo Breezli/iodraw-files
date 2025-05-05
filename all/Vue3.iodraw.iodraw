@@ -328,8 +328,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-117" value="文本节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-4600" y="-1802" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-119" value="Fragment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2890" y="-1758" width="70" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-119" value="Fragment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-4320" y="-1802" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
