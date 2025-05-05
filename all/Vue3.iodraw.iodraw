@@ -168,8 +168,8 @@
         <mxCell id="_RieJsYPawKbciylRm0j-61" value="调用组件的render函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1390" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-62" value="执行生成子树的虚拟DOM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1390" y="148" width="160" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-62" value="执行生成子树的虚拟DOM（subTree）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1355" y="148" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
