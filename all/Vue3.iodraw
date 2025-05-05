@@ -103,7 +103,7 @@
         <mxCell id="_RieJsYPawKbciylRm0j-38" value="👈有缓存渲染器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#DBDBDB;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-380" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-39" value="没有&lt;div&gt;则创建新的渲染器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_RieJsYPawKbciylRm0j-39" value="没有&lt;div&gt;则创建新的渲染器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-510" y="553" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
