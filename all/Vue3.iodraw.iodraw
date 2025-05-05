@@ -263,10 +263,10 @@
           <mxGeometry x="-2820" y="-1700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-95" value="Fragment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2909" y="-1770" width="70" height="30" as="geometry" />
+          <mxGeometry x="-2900" y="-1768" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_RieJsYPawKbciylRm0j-96" value="文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3295" y="-1722" width="50" height="30" as="geometry" />
+        <mxCell id="_RieJsYPawKbciylRm0j-96" value="文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2939" y="-1830" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
