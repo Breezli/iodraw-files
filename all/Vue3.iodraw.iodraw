@@ -227,7 +227,10 @@
           <mxGeometry x="-240" y="25" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-80" value="组件模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="128" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_RieJsYPawKbciylRm0j-81" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; background-color: rgba(175, 184, 193, 0.2); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;compiler-core&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="230" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
