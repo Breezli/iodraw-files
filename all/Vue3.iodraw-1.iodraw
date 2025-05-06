@@ -589,8 +589,8 @@
         <mxCell id="2YinDdgJyovo1Qjzi2U1-36" value="在组件实例创建前执行setup()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="145" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2YinDdgJyovo1Qjzi2U1-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="2YinDdgJyovo1Qjzi2U1-37" value="返回一个对象，该对象的属性会被暴露给模板使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="198" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
