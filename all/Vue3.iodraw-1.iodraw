@@ -587,7 +587,10 @@
           <mxGeometry x="-3130" y="4410" width="560" height="290" as="geometry" />
         </mxCell>
         <mxCell id="2YinDdgJyovo1Qjzi2U1-36" value="在组件实例创建前执行setup()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="148" width="180" height="30" as="geometry" />
+          <mxGeometry x="540" y="145" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YinDdgJyovo1Qjzi2U1-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="198" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
