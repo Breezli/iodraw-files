@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="15559" dy="4311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18859" dy="6079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-36" value="挂载js到根容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FCFCFC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="175" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YinDdgJyovo1Qjzi2U1-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-14020" y="-1650" width="1130" height="590" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-37" value="惰性初始化，并确保全局只有一个渲染器实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-570" y="190" width="260" height="30" as="geometry" />
@@ -375,9 +378,6 @@
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.555;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_RieJsYPawKbciylRm0j-112" target="_RieJsYPawKbciylRm0j-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2YinDdgJyovo1Qjzi2U1-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-14020" y="-1650" width="1130" height="590" as="geometry" />
         </mxCell>
         <mxCell id="_RieJsYPawKbciylRm0j-131" value="判断虚拟节点类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-3721" y="-1810" width="120" height="30" as="geometry" />
@@ -657,6 +657,9 @@
         </mxCell>
         <mxCell id="2YinDdgJyovo1Qjzi2U1-69" value="&lt;div style=&quot;color: #d0d7e4;background-color: #1c2433;font-family: &#39;Fira Code semiBold&#39;, Consolas, &#39;Courier New&#39;, monospace, Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #22ecdb;&quot;&gt;function&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;insert&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;child&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;parent&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;anchor&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #eacd61;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #e35535;&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #22ecdb;&quot;&gt;console&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #3cec85;&quot;&gt;&quot;Insert&quot;&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;parent&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;insertBefore&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;child&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f38cec;&quot;&gt;anchor&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-9900" y="1980" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2YinDdgJyovo1Qjzi2U1-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-12790" y="-1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
