@@ -731,7 +731,7 @@
           <mxGeometry x="-8100" y="-590" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSHNYMvsLCjmbgChuTdE-1" value="使组件实例具有emit方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-7820" y="-670" width="200" height="30" as="geometry" />
+          <mxGeometry x="-7956" y="-720" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
