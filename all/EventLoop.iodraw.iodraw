@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-lZVc9d5FGvQQvNBuKUs-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="420" width="180" height="1720" as="geometry" />
+        </mxCell>
         <mxCell id="-lZVc9d5FGvQQvNBuKUs-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="420" width="180" height="1720" as="geometry" />
         </mxCell>
@@ -105,9 +108,6 @@
         </mxCell>
         <mxCell id="-lZVc9d5FGvQQvNBuKUs-49" value="处理微任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1220" y="420" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-lZVc9d5FGvQQvNBuKUs-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="420" width="180" height="1720" as="geometry" />
         </mxCell>
         <mxCell id="-lZVc9d5FGvQQvNBuKUs-51" value="处理宏任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="420" width="80" height="30" as="geometry" />
