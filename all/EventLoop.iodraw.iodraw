@@ -160,6 +160,9 @@
         <mxCell id="-lZVc9d5FGvQQvNBuKUs-79" value="&lt;div style=&quot;color: #d0d7e4;background-color: #1c2433;font-family: &#39;Fira Code semiBold&#39;, Consolas, &#39;Courier New&#39;, monospace, Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #22ecdb;&quot;&gt;console&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #69c3ff;&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #3cec85;&quot;&gt;&#39;2&#39;&lt;/span&gt;&lt;span style=&quot;color: #d0d7e4;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="500" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-lZVc9d5FGvQQvNBuKUs-83" value="&lt;span style=&quot;color: rgb(119, 119, 119); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 4; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;执行完一个宏任务，会再次清空微任务队列然后执行下一个任务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="480" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
