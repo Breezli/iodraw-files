@@ -43,7 +43,7 @@
         <mxCell id="-lZVc9d5FGvQQvNBuKUs-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="550" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="-lZVc9d5FGvQQvNBuKUs-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-lZVc9d5FGvQQvNBuKUs-21" value="宏任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
