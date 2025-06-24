@@ -10,7 +10,7 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-2" value="时代背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cq0uGIXgzbHFWTHv4wu7-3" value="是“两个结合”的重大成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-3" value="是“两个结合”&lt;br&gt;的重大成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-4" value="完整的科学体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-6" value="“两个确立”&lt;br&gt;的决定性意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
