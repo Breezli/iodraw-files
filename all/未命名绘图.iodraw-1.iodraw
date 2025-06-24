@@ -58,6 +58,9 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cq0uGIXgzbHFWTHv4wu7-18" target="cq0uGIXgzbHFWTHv4wu7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cq0uGIXgzbHFWTHv4wu7-18" target="cq0uGIXgzbHFWTHv4wu7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-18" value="6 必须坚持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,10 +71,10 @@
           <mxGeometry x="960" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-21" value="守正创行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-22" value="问题导向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-23" value="系统观念" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="470" width="120" height="60" as="geometry" />
