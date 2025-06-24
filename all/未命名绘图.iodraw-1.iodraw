@@ -25,6 +25,9 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-7" value="学好用好" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-8" value="10 明确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
