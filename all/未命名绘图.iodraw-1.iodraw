@@ -16,6 +16,9 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-4" value="完整的科学体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-5" value="历史地位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
