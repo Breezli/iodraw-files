@@ -31,6 +31,30 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-9" value="14 坚持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-10" value="中共领导" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-11" value="坚持发展&lt;br&gt;中国特色社会主义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cq0uGIXgzbHFWTHv4wu7-12" target="cq0uGIXgzbHFWTHv4wu7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-12" value="新时代主要矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-13" value="事业布局&lt;br&gt;战略布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-14" value="全面深化改革总目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-15" value="人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
