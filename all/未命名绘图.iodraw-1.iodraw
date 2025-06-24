@@ -40,6 +40,12 @@
         <mxCell id="cq0uGIXgzbHFWTHv4wu7-12" value="新时代主要矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-13" value="事业布局&lt;br&gt;战略布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cq0uGIXgzbHFWTHv4wu7-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
